@@ -1,20 +1,33 @@
 #DoorDash {
 	color: blue;
-	border: solid;
+	border: dotted;
+	margin: 25px;
+	padding: 25px;	
 }
 
 #Postmates {
 	color: red;
-	border: solid;
+	border: dashed;
+	margin: 25px;
+	padding: 25px;
 
 }
 
 #UberEats {
 	color: green;
 	border: solid;
+	margin: 25px;
+	padding: 25px;
 }
 
 #Amazon-Flex {
-	color: yellow;
-	border: solid;
+	color: purple;
+	border: inset;
+	margin: 25px;
+	padding: 25px;
+}
+
+.button {
+	justify-content: center;
+	align-content: center;
 }
