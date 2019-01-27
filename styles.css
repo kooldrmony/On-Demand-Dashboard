@@ -12,31 +12,43 @@
 }
 
 #DoorDash {
-	color: blue;
-	border: dotted;
+	background-color: red;
+	border: solid;
 	margin: 25px;
 	padding: 25px;	
+	border-radius: 25px;
 }
 
 #Postmates {
-	color: red;
-	border: dashed;
+	background-color: green;
+	border: solid;
 	margin: 25px;
 	padding: 25px;
+	border-radius: 25px;
 
 }
 
 #UberEats {
-	color: green;
+	background-color: blue;
 	border: solid;
 	margin: 25px;
 	padding: 25px;
+	border-radius: 25px;
+}
+
+.icon {
+
+	height: 100px;
+	width: 100px;
+	border: solid;
+	border-radius: 50px;
 }
 
 #Amazon-Flex {
-	color: purple;
-	border: inset;
+	background-color: orange;
+	border: solid;
 	margin: 25px;
 	padding: 25px;
+	border-radius: 25px;
 }
 
