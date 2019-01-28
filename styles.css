@@ -1,14 +1,18 @@
+#header {
+	text-align: center;
+}
+
 #on {
 	border-radius: 50px;
 	background-color: green;
 	height: 100px;
-	width: 100px;
+	width: 300px;
 	font-size: 25px;
 }
 
 #mainButton {
 	position: relative;
-	left: 650px;
+	left: 550px;
 }
 
 #DoorDash {
